@@ -150,7 +150,7 @@ Modify `README.md` to include a section on maintaining the `changelog`.
 
 **2. Click on the **"Compare & pull request"** button in the pop-up.**
 
-    ![](./img/10.click-compare-and-pull-request.png)
+![](./img/10.click-compare-and-pull-request.png)
 
 **3. Review the PR Details**
 
